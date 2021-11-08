@@ -1,0 +1,15 @@
+C:\Users\MiNotebook\source\repos\Maps_Ready\Maps_Ready\bin\Debug\Maps_Ready.exe.config
+C:\Users\MiNotebook\source\repos\Maps_Ready\Maps_Ready\bin\Debug\Maps_Ready.exe
+C:\Users\MiNotebook\source\repos\Maps_Ready\Maps_Ready\bin\Debug\Maps_Ready.pdb
+C:\Users\MiNotebook\source\repos\Maps_Ready\Maps_Ready\obj\Debug\Maps_Ready.csproj.AssemblyReference.cache
+C:\Users\MiNotebook\source\repos\Maps_Ready\Maps_Ready\obj\Debug\MainWindow.g.cs
+C:\Users\MiNotebook\source\repos\Maps_Ready\Maps_Ready\obj\Debug\App.g.cs
+C:\Users\MiNotebook\source\repos\Maps_Ready\Maps_Ready\obj\Debug\Maps_Ready_MarkupCompile.cache
+C:\Users\MiNotebook\source\repos\Maps_Ready\Maps_Ready\obj\Debug\Maps_Ready_MarkupCompile.lref
+C:\Users\MiNotebook\source\repos\Maps_Ready\Maps_Ready\obj\Debug\MainWindow.baml
+C:\Users\MiNotebook\source\repos\Maps_Ready\Maps_Ready\obj\Debug\Maps_Ready.g.resources
+C:\Users\MiNotebook\source\repos\Maps_Ready\Maps_Ready\obj\Debug\Maps_Ready.Properties.Resources.resources
+C:\Users\MiNotebook\source\repos\Maps_Ready\Maps_Ready\obj\Debug\Maps_Ready.csproj.GenerateResource.cache
+C:\Users\MiNotebook\source\repos\Maps_Ready\Maps_Ready\obj\Debug\Maps_Ready.csproj.CoreCompileInputs.cache
+C:\Users\MiNotebook\source\repos\Maps_Ready\Maps_Ready\obj\Debug\Maps_Ready.exe
+C:\Users\MiNotebook\source\repos\Maps_Ready\Maps_Ready\obj\Debug\Maps_Ready.pdb
